@@ -1,6 +1,6 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/FengY4/FengY4/refs/heads/main/Fengui.lua", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/shenshiKS/king/refs/heads/main/114514.lua", true))()
 ----------------------------------------------------------------------------------------------------------------------------------------UI
-local window = library:new("殺脚本(测试版)")--脚本名字
+local window = library:new("DIO脚本(测试版)")--脚本名字
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
